@@ -1,7 +1,7 @@
 ## Hi, I'm [Yilun Kuang](https://yilunkuang.github.io/) 👋
 
 - I'm a fourth year undergrad in Honors Mathematics and Computer Science at New York University
-- I'm currently working as a [guest researcher](https://www.simonsfoundation.org/people/yilun-kuang/) at Flatiron Institute, Simons Foundation
+- I'm currently working as a [research assistant](https://www.simonsfoundation.org/people/yilun-kuang/) at Flatiron Institute, Simons Foundation
 - I grew up in Shenzhen, China and have lived in Claremont, California and New York City
 
 ### What I Work on 🧑‍💻
