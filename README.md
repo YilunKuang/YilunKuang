@@ -1,14 +1,15 @@
 ## Hi, I'm [Yilun Kuang](https://yilunkuang.github.io/) 👋
 
+- I'm an incoming PhD Student in Data Science at [NYU Center for Data Science (NYU CDS)](https://cds.nyu.edu/)
 - I'm a fourth year undergrad in Honors Mathematics and Computer Science at New York University
 - I'm currently working as a [research assistant](https://www.simonsfoundation.org/people/yilun-kuang/) at Flatiron Institute, Simons Foundation
 - I grew up in Shenzhen, China and have lived in Claremont, California and New York City
 
 ### What I Work on 🧑‍💻
-I am an aspiring AI researcher with a focus on Machine Learning and Theoretical Neuroscience. More specifically, I am interested in
+I am an aspiring AI researcher with a focus on Deep Learning and Theoretical Neuroscience. More specifically, I am interested in
 
-- Self-Supervised Representation Learning, Probabilistic Language Modeling, NeuroAI & AI for Science
-- Biologically-Plausible Learning Rule, Gaussian Process and Neural Tangent Kernel, Bayesian Deep Learning
+- Self-Supervised Representation Learning, Probabilistic Generative Modeling, NeuroAI & AI for Science
+- Task-Efficient Manifold Geometry, Gaussian Process and Neural Tangent Kernel, Bayesian Deep Learning
 
 Beyond my current academic pursuits, I am also passionate about applying machine learning in real world settings. Thus, I have done 1) software engineering projects in [deploying SaaS machine learning service over IBM Cloud Kubernetes](https://github.com/YilunKuang/Scalable-MNIST-on-Kubernetes) and 2) quantitative finance projects in [integrating gaussian process changepoint detections into momentum trading pipeline for currency trading](https://github.com/charliezchen/currency-change-point-detection). 
 
