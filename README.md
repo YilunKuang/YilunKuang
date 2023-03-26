@@ -6,7 +6,7 @@
 - I grew up in Shenzhen, China and have lived in Claremont, California and New York City
 
 ### What I Work on 🧑‍💻
-I am an aspiring AI researcher with a focus on Deep Learning and Theoretical Neuroscience. More specifically, I am interested in
+I am an aspiring AI researcher with a focus on Deep Learning. More specifically, I am interested in
 
 - Self-Supervised Representation Learning, Probabilistic Generative Modeling, NeuroAI & AI for Science
 - Task-Efficient Manifold Geometry, Gaussian Process and Neural Tangent Kernel, Bayesian Deep Learning
