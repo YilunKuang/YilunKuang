@@ -8,10 +8,17 @@
 ### What I Work on 🧑‍💻
 I am an aspiring AI researcher with a focus on Deep Learning. More specifically, I am interested in
 
+- Probabilistic Generative Modeling, Bayesian Deep Learning, NeuroAI & AI for Science
+- Self-Supervised Representation Learning, Gaussian Process and Neural Tangent Kernel, Representational Geometry
+
+<!---
 - Self-Supervised Representation Learning, Probabilistic Generative Modeling, NeuroAI & AI for Science
 - Task-Efficient Manifold Geometry, Gaussian Process and Neural Tangent Kernel, Bayesian Deep Learning
+--->
 
+<!---
 Beyond my current academic pursuits, I am also passionate about applying machine learning in real world settings. Thus, I have done 1) software engineering projects in [deploying SaaS machine learning service over IBM Cloud Kubernetes](https://github.com/YilunKuang/Scalable-MNIST-on-Kubernetes) and 2) quantitative finance projects in [integrating gaussian process changepoint detections into momentum trading pipeline for currency trading](https://github.com/charliezchen/currency-change-point-detection). 
+--->
 
 ### How to Get in Touch
 <a href="https://www.linkedin.com/in/yilun-mark-kuang/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
